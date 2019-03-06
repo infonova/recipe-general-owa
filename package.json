@@ -1,0 +1,24 @@
+{
+  "id": "generalowa",
+  "name": "generaloutlookwebaccess",
+  "version": "1.0.0",
+  "description": "General Outlook Web Access",
+  "main": "index.js",
+  "author": "Stefan Prietl <stefan.prietl@bearingpoint.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://<webmail_url>",
+    "serviceName": "General Outlook Web Access",
+    "message": "Email from General Outlook Web Access",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
