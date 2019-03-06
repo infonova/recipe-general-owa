@@ -16,5 +16,5 @@ Due to dev status of recipe/plugin, install it like this:
 
 ## Roadmap
 
-[] Make URL configurable
-[] Automate installation
+- [ ] Make URL configurable
+- [ ] Automate installation
